@@ -16,9 +16,25 @@ floor: towards -Infinity
 
 ### Demo
 
-```
-const a = 2.3, b = -2.3;
-console.log("\t\t\t" + a + "\t\t" + b + "\r\n" + "Math.trunc: " + Math.trunc(a) + "\t\t" + Math.trunc(b) + "\r\n" + "Math.floor: " + Math.floor(a) + "\t\t" + Math.floor(b));
+```javascript
+const a = 2.3,
+  b = -2.3;
+console.log(
+  "\t\t\t" +
+    a +
+    "\t\t" +
+    b +
+    "\r\n" +
+    "Math.trunc: " +
+    Math.trunc(a) +
+    "\t\t" +
+    Math.trunc(b) +
+    "\r\n" +
+    "Math.floor: " +
+    Math.floor(a) +
+    "\t\t" +
+    Math.floor(b)
+);
 ```
 
 ### Output
@@ -31,7 +47,7 @@ Math.floor: 2       -3
 
 ### Example from MDN
 
-```
+```javascript
 Math.trunc(-Infinity); // -Infinity
 Math.trunc("-1.123"); //⚠️ -1
 Math.trunc(-0.123); // ⚠️ -0
