@@ -15,6 +15,8 @@ A collection of what I learned day to day across a variety of languages and tech
 ### Git
 
 - [Rebase onto the first commit](https://github.com/aanmeba/til/blob/main/git/rebase-onto-first-commit.md)
+- [Update forked repo's main branch](https://github.com/aanmeba/til/blob/main/git/update-forked-repo-main-up.md)
+- [Change commit detail](https://github.com/aanmeba/til/blob/main/git/change-commit-detail.md)
 
 ### JavaScript
 
