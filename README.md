@@ -23,3 +23,4 @@ A collection of what I learned day to day across a variety of languages and tech
 - [Condition - String has lowercase and uppercase](https://github.com/aanmeba/til/tree/main/javascript/condition-string-has-lowercase-and-uppercase.md)
 - [Convert a value into boolean](https://github.com/aanmeba/til/tree/main/javascript/convert-value-into-boolean.md)
 - [Difference between Math.trunc and Math.floor](https://github.com/aanmeba/til/tree/main/javascript/difference-between-math-trunc-and-math-floor.md)
+- [Math object and its methods](https://github.com/aanmeba/til/tree/main/javascript/math-methods.md)
